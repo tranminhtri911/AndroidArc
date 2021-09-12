@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Main App Color-->
+    <color name="K_18F5FF_BLUE">#18F5FF</color>
+    <color name="K_11C1D1_BLUE">#11C1D1</color>
+    <color name="K_3B5998_BLUE">#3B5998</color>
+    <color name="K_FF79B2_PINK">#FF79B2</color>
+    <color name="K_EE4477_PINK">#EE4477</color>
+    <color name="K_505050_GRAY">#505050</color>
+    <color name="K_222222_BLACK">#222222</color>
+    <color name="K_999999_GRAY">#999999</color>
+    <color name="K_C8C8C8_GRAY">#C8C8C8</color>
+    <color name="K_FF6090_PINK">#FF6090</color>
+    <!--Main App Color-->
+</resources>

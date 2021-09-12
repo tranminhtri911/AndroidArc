@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BaseMVP</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_ok">Ok</string>
+
+    <string name="msg_error_no_internet">インターネット接続がオフラインのようです。</string>
+
+    <!-- WebView -->
+    <string name="text_html_mark_before_content">
+        <![CDATA[<html><head><style>img{max-width: 100%!important;height: auto!important;}</style></head><body>]]></string>
+    <string name="text_html_mark_after_content"><![CDATA[</body></html>]]></string>
+
+</resources>

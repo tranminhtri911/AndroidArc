@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DTextView">
+        <attr name="txtFont" format="enum">
+            <enum name="Regular" value="1" />
+            <enum name="Bold" value="2" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="DEditText">
+        <attr name="edtFont" format="enum">
+            <enum name="Regular" value="1" />
+            <enum name="Bold" value="2" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="DButton">
+        <attr name="btnFront" format="enum">
+            <enum name="Regular" value="1" />
+            <enum name="Bold" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>

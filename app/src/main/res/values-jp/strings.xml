@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseMVP</string>
+    <string name="action_cancel">キャンセル</string>
+    <string name="action_ok">完了</string>
+</resources>
